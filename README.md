@@ -21,5 +21,5 @@ python app.py
   - Implement the PUT, DELETE methods
   - Create radioastrophysicalobject and save to the dictonary
   - Implement validations in radioastrophysicalobject type, dispersion etc..
-  - 
+  - Design challenge
 
